@@ -1,0 +1,15 @@
+.book-list {
+}
+.book-list__title {
+    color: #4caf50;
+}
+.book-list__input-search {
+    width: 45% !important;
+}
+
+.book-list__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}

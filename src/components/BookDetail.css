@@ -1,0 +1,53 @@
+
+
+.book-detail {
+    text-align: center;
+    margin: 50px auto;
+    /*width: 80%;^/
+    /*
+    max-width: 600px;*/
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.book-detail__cont1 {
+    width: 48%;
+    display: inline-block;
+    padding: 15px;
+}
+
+.book-detail__cont1 img {
+    max-width: 100%;
+    height: auto;
+}
+
+.book-detail__cont2 {
+    width: 49%;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+}
+
+.book-detail__actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.book-detail__actions input {
+    width: 70px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.book-detail__actions button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+

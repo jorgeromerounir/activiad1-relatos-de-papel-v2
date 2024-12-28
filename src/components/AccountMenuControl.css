@@ -1,0 +1,14 @@
+.account-menu-control {
+    padding: 10px;
+    width: 120px;
+    height: 80px;
+}
+
+.account-menu-control__btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
