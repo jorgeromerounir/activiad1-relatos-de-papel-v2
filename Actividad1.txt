@@ -1,6 +1,14 @@
 
 Project github URL: https://github.com/jorgeromerounir/activiad1-relatos-de-papel-v2.git
 
-Project video URL: 
+Project video URL: https://drive.google.com/file/d/1bqK4odRFMMYbB1444XhoyQ3X6aJ8he7R/view
 
-Project deploy URL:
+Project deploy URL: Pendiente...
+
+
+1. explicación funcional.
+2. readme.
+3. estructura.
+4. código componentes.
+5. código hooks.
+6. problema deploy.
